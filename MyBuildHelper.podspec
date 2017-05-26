@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = "MyBuildHelper可以在创建项目工程时快速辅助搭建项目,包含常用的常规的项目架构目录、三方工具、以及常用pod库文件名列表。后续还会不断完善补充..."
                  
-  s.homepage     = "https://www.baidu.com"
+  s.homepage     = "https://github.com/eyu1988/MyBuildHelper"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -77,7 +77,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source = { :git => "https://github.com/euy1988/MyBuildHelper.git", :tag => 'v0.0.1' }
+  s.source = { :git => "https://github.com/eyu1988/MyBuildHelper.git", :tag => 'v0.0.1' }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
