@@ -77,7 +77,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source = { :git => "https://github.com/eyu1988/MyBuildHelper.git", :tag => 'v0.0.1' }
+  s.source = { :git => "https://github.com/eyu1988/MyBuildHelper.git", :tag => '0.0.1' }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
